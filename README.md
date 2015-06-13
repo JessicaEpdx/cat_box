@@ -46,3 +46,6 @@ Author:
 -------
 
 Chase Reckling chase.reckling@gmail.com
+Jessica Engel jessicaepdx@gmail.com
+Kha-le
+Cody Bouscaren
