@@ -42,10 +42,13 @@ Copyright and Licensing:
 
 For copyright and licensing Battle Cats uses the GNU GENERAL PUBLIC LICENSE, version 2.
 
-Author:
+Authors:
 -------
 
 Chase Reckling chase.reckling@gmail.com
+
 Jessica Engel jessicaepdx@gmail.com
+
 Kha-le
+
 Cody Bouscaren
